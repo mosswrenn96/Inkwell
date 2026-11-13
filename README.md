@@ -33,7 +33,7 @@ Text blends into the paper (multiply blend) and is roughened by an adjustable in
 Presets: **Fountain pen, Ballpoint, Pencil, Felt marker, Clean.** If typing feels slow on an older computer, turn off **Live effect**. The effect is still applied when you export.
 
 ### Paper
-- **8 starter papers, generated in code** (so they add almost nothing to the file size): Cream stationery, Bright cotton, Notebook (ruled), Legal pad, Graph paper, Kraft, Aged parchment and Recycled grey.
+- **8 starter papers**: Cream stationery, Bright cotton, Notebook (ruled), Legal pad, Graph paper, Kraft, Aged parchment and Recycled grey.
 - **Paper tint:** recolor any paper with a swatch or a custom color.
   - Four blend modes: Tint (keeps the paper's texture), Deepen, Soft light and Overlay.
   - Strength is capped so the tint can't drown out the text, and ruled lines keep their own color.
